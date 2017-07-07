@@ -19,4 +19,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-server.js
+src/server.js
+src/Auth/auth0-variable.js
